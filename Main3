@@ -15,7 +15,7 @@ local validKeys = {
 }
 
 -- Webhook URL
-local webhookUrl = "https://discord.com/api/webhooks/980346581528219649/Bemg1IN4jqwxaAt1Lk9EGvuJJSp4Z9vjWz46P_-QdsM4FW7gDEcLbBuYNAbZ7OQkYUKY"
+local webhookUrl = "https://discord.com/api/webhooks/1317920024782180452/65PMWbTAxEhInGoYDsQzSUJdtVKnj5ia-Gf5aWSef1IsDDXe1GRKcWgwl0Le0kQJ8Lj0"
 
 -- Function to send data to Discord webhook
 local function sendToDiscord(keyUsed, hwid, validationStatus)
